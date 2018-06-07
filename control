@@ -1,0 +1,9 @@
+Package: com.dgh0st.lstapnotifications
+Name: LSTapNotifications
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Tap to open notifications on iOS 10.
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Author: DGh0st <deeppwnage@yahoo.com>
+Section: Tweaks
